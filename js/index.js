@@ -84,7 +84,7 @@ function cl(){//Очищаем
 	
 		context.beginPath();	
 
-	context.fillStyle = "#ffcccc";
+	context.fillStyle = "#ffe6e6";
     context.strokeStyle = "#ff6969";
 		context.fillRect(0,0,100,100);
 		context.stroke();
