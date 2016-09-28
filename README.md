@@ -1,4 +1,5 @@
-<h3>Handwritten digits recognition on js/coffescript by Rosenblatt perceptron</h3>
+#Handwriting Recognition digits Rosenblatt perceptron
+#Рукописное распознование цифр перцептрон Розенблата
 ###Инструкция:
 * Рисуем цифру нажимаем Распознать
 * Выбираем её значение нажав на одну из кнопок от 0 до 9
