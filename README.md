@@ -1,2 +1,5 @@
 <h3>Handwritten digits recognition on js/coffescript by Rosenblatt perceptron</h3>
-<a href="http://d5ky.github.io/hwr"><b>Example</b></a>
+##Инструкция:
+* Рисуем цифру нажимаем Распознать, затем выбираем её значение нажав на одну из кнопок от 0 до 9.
+Далее она запоминается на каком-то нейроне. Нарисовав цифру еще раз и нажав Распознать, нейрон, который ее запомнил, сразу выдаст результат.
+<a href="http://d5ky.github.io/per"><b>Example</b></a>
